@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Skander 👋
 
 **Web 🌐 • Robotics 🤖 • Data/ML 📊**
@@ -63,4 +62,3 @@ Check out my projects at my portfolio: [portfolioskanderhakouna.vercel.app](http
 * 🌐 Portfolio: [portfolioskanderhakouna.vercel.app](https://portfolioskanderhakouna.vercel.app)
 * 💼 LinkedIn: [www.linkedin.com/in/skander-hakouna](https://www.linkedin.com/in/skander-hakouna)
 * ✉️ Email: [skander.hakouna@enicar.ucar.tn](mailto:skander.hakouna@enicar.ucar.tn)
-```
