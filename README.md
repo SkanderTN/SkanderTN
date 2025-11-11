@@ -1,7 +1,10 @@
+```markdown
 # Hi, I'm Skander 👋
 
 **Web 🌐 • Robotics 🤖 • Data/ML 📊**
-I’m **Skander Hakouna**, a 3rd‑year Computer Engineering student at **ENICARTHAGE**. I like turning ideas into things people can use—across the web, robots, and data. Currently seeking a **PFE web development internship**.
+I’m **Skander Hakouna**, a 3rd‑year Computer Engineering student at **ENICARTHAGE**. I like turning ideas into things people can use—across the web, robots, and data. Currently seeking a **PF[...]**
+
+Check out my projects at my portfolio: [portfolioskanderhakouna.vercel.app](https://portfolioskanderhakouna.vercel.app)
 
 * 🔭 Recent: **EcoPartage** — AI‑assisted listing flow, auth, reservations, real‑time chat, and docs.
 * 🤖 Robotics: line‑follower, maze solver, all‑terrain racer — *4× competition wins*.
@@ -57,6 +60,7 @@ I’m **Skander Hakouna**, a 3rd‑year Computer Engineering student at **ENICAR
 
 ## Links
 
-* 🌐 Portfolio: portfolioskanderhakouna.vercel.app
-* 💼 LinkedIn: www.linkedin.com/in/skander-hakouna
+* 🌐 Portfolio: [portfolioskanderhakouna.vercel.app](https://portfolioskanderhakouna.vercel.app)
+* 💼 LinkedIn: [www.linkedin.com/in/skander-hakouna](https://www.linkedin.com/in/skander-hakouna)
 * ✉️ Email: [skander.hakouna@enicar.ucar.tn](mailto:skander.hakouna@enicar.ucar.tn)
+```
